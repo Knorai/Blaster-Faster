@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"25b6963e-0893-4f42-bc95-2ceae9353673","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Blaster Faster",
-    "path": "Blaster Faster.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_stars_far",

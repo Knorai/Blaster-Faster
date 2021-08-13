@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1b68742b-6743-48b8-b5d7-a801d42e52b9","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Blaster Faster",
-    "path": "Blaster Faster.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_stars_close",

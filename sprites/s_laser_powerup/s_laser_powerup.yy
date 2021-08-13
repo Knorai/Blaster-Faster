@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6d35faa3-f7ae-4871-809c-deb00156cf05","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Blaster Faster",
-    "path": "Blaster Faster.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_laser_powerup",

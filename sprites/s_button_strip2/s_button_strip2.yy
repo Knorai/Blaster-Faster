@@ -72,8 +72,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"85a9e295-f1b5-42df-afa3-55e0c545990c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Blaster Faster",
-    "path": "Blaster Faster.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_button_strip2",
