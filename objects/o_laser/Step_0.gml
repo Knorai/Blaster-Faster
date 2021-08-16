@@ -1,1 +1,1 @@
-/// User laser
+/// The user's laser

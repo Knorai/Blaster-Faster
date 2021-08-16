@@ -1,1 +1,1 @@
-/// User score
+/// The user's score

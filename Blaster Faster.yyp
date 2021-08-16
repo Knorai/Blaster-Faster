@@ -33,7 +33,7 @@
     {"id":{"name":"o_laser_powerup","path":"objects/o_laser_powerup/o_laser_powerup.yy",},"order":7,},
     {"id":{"name":"o_enemy_two","path":"objects/o_enemy_two/o_enemy_two.yy",},"order":2,},
     {"id":{"name":"o_score","path":"objects/o_score/o_score.yy",},"order":3,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"Space","path":"rooms/Space/Space.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -47,7 +47,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Space","path":"rooms/Space/Space.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

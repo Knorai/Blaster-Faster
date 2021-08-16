@@ -1,1 +1,1 @@
-/// Enemy's laser
+/// The enemy's laser
