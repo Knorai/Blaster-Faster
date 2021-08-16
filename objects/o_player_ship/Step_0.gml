@@ -1,11 +1,17 @@
 /// The user's ship
-if (mouse_check_button(mb_right)) {
-	speed = max_speed;
-} else {
-	speed = 0;
-}	
-
 var mouse_direction = point_direction(x, y, mouse_x, mouse_y);
-direction = mouse_direction;
 
 image_angle = mouse_direction;
+
+var thrust = (mouse_check_button(mb_right))
+
+if (thrust) {
+	motion_add(image_angle, acceleration);
+	if (speed > max_speed) {
+		speed = max_speed;
+	}
+} else {
+	friction = 0.05;
+}	
+
+direction = mouse_direction;
