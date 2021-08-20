@@ -8,7 +8,7 @@ image_angle = mouse_direction;
 var thrust = (mouse_check_button(mb_right))
 //Changes which image is being activated during acceleration
 image_index = thrust;
-//creates acceleration and a max speed
+//Creates acceleration and a max speed
 if (thrust) {
 	motion_add(image_angle, acceleration);
 	if (speed > max_speed) {
@@ -22,3 +22,8 @@ if (thrust) {
 } else {
 	friction = friction_amount;
 }	
+//Creates laser
+var fire_laser = mouse_check_button_pressed(mb_left);
+if (fire_laser) {
+	CreateLaser();
+}
