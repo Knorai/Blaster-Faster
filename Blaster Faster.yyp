@@ -19,7 +19,7 @@
     {"id":{"name":"s_ship","path":"sprites/s_ship/s_ship.yy",},"order":10,},
     {"id":{"name":"a_ship_hit","path":"sounds/a_ship_hit/a_ship_hit.yy",},"order":3,},
     {"id":{"name":"a_music","path":"sounds/a_music/a_music.yy",},"order":1,},
-    {"id":{"name":"CreateLaser","path":"scripts/CreateLaser/CreateLaser.yy",},"order":1,},
+    {"id":{"name":"Create_Right_Laser","path":"scripts/Create_Right_Laser/Create_Right_Laser.yy",},"order":1,},
     {"id":{"name":"BounceOffScreenEdge","path":"scripts/BounceOffScreenEdge/BounceOffScreenEdge.yy",},"order":0,},
     {"id":{"name":"s_explosion_center","path":"sprites/s_explosion_center/s_explosion_center.yy",},"order":5,},
     {"id":{"name":"s_stars_close","path":"sprites/s_stars_close/s_stars_close.yy",},"order":11,},
@@ -75,7 +75,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "Blaster Faster",
