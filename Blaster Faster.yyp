@@ -35,6 +35,7 @@
     {"id":{"name":"a_explode","path":"sounds/a_explode/a_explode.yy",},"order":5,},
     {"id":{"name":"o_explosion_particle","path":"objects/o_explosion_particle/o_explosion_particle.yy",},"order":9,},
     {"id":{"name":"s_enemy_two","path":"sprites/s_enemy_two/s_enemy_two.yy",},"order":4,},
+    {"id":{"name":"o_ship_parent","path":"objects/o_ship_parent/o_ship_parent.yy",},"order":13,},
     {"id":{"name":"o_laser_powerup","path":"objects/o_laser_powerup/o_laser_powerup.yy",},"order":7,},
     {"id":{"name":"o_enemy_two","path":"objects/o_enemy_two/o_enemy_two.yy",},"order":2,},
     {"id":{"name":"o_score","path":"objects/o_score/o_score.yy",},"order":3,},
