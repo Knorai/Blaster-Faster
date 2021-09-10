@@ -11,5 +11,5 @@ if (x < half_width or x > room_width - half_width) {
 if (y < half_height or y > room_height - half_height) {
 	y = yprevious;
 	vspeed = -vspeed * momentum_loss;
-}
+	}
 }

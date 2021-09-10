@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Fire_Lasers","path":"scripts/Fire_Lasers/Fire_Lasers.yy",},"order":3,},
+    {"id":{"name":"Bounce_Off_Object","path":"scripts/Bounce_Off_Object/Bounce_Off_Object.yy",},"order":5,},
     {"id":{"name":"s_button_strip2","path":"sprites/s_button_strip2/s_button_strip2.yy",},"order":1,},
     {"id":{"name":"Create_Laser_Effect","path":"scripts/Create_Laser_Effect/Create_Laser_Effect.yy",},"order":4,},
     {"id":{"name":"Create_Left_laser","path":"scripts/Create_Left_laser/Create_Left_laser.yy",},"order":2,},
@@ -18,6 +19,7 @@
     {"id":{"name":"a_hit","path":"sounds/a_hit/a_hit.yy",},"order":6,},
     {"id":{"name":"a_enemy_laser","path":"sounds/a_enemy_laser/a_enemy_laser.yy",},"order":4,},
     {"id":{"name":"s_armor_strip","path":"sprites/s_armor_strip/s_armor_strip.yy",},"order":0,},
+    {"id":{"name":"o_explosion_chunk","path":"objects/o_explosion_chunk/o_explosion_chunk.yy",},"order":14,},
     {"id":{"name":"o_laser","path":"objects/o_laser/o_laser.yy",},"order":8,},
     {"id":{"name":"s_ship","path":"sprites/s_ship/s_ship.yy",},"order":10,},
     {"id":{"name":"a_ship_hit","path":"sounds/a_ship_hit/a_ship_hit.yy",},"order":3,},
@@ -79,7 +81,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.580",
   },
   "resourceVersion": "1.4",
   "name": "Blaster Faster",
