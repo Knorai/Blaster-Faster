@@ -1,2 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Creation event
+alarm[0] = fire_rate;
+
