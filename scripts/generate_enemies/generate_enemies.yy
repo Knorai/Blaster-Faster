@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Fire_Lasers",
+  "name": "generate_enemies",
   "tags": [],
   "resourceType": "GMScript",
 }

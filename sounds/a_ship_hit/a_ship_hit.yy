@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 1.0,
+  "volume": 0.75,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "a_ship_hit.wav",
-  "duration": 0.322619,
+  "duration": 0.317619,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

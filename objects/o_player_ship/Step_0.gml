@@ -28,5 +28,6 @@ repeat(2) {
 //Creates laser
 var fire_laser = mouse_check_button_pressed(mb_left);
 if (fire_laser) {
-	Fire_Lasers();
+	Create_Right_Laser();
+	Create_Left_laser();
 }

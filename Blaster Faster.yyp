@@ -1,11 +1,13 @@
 {
   "resources": [
-    {"id":{"name":"Fire_Lasers","path":"scripts/Fire_Lasers/Fire_Lasers.yy",},"order":3,},
+    {"id":{"name":"start_button","path":"scripts/start_button/start_button.yy",},"order":9,},
     {"id":{"name":"Bounce_Off_Object","path":"scripts/Bounce_Off_Object/Bounce_Off_Object.yy",},"order":5,},
     {"id":{"name":"s_button_strip2","path":"sprites/s_button_strip2/s_button_strip2.yy",},"order":1,},
     {"id":{"name":"Create_Laser_Effect","path":"scripts/Create_Laser_Effect/Create_Laser_Effect.yy",},"order":4,},
     {"id":{"name":"Create_Left_laser","path":"scripts/Create_Left_laser/Create_Left_laser.yy",},"order":2,},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":1,},
     {"id":{"name":"o_explosion_center","path":"objects/o_explosion_center/o_explosion_center.yy",},"order":10,},
+    {"id":{"name":"exit_button","path":"scripts/exit_button/exit_button.yy",},"order":10,},
     {"id":{"name":"o_player_ship","path":"objects/o_player_ship/o_player_ship.yy",},"order":0,},
     {"id":{"name":"a_laser","path":"sounds/a_laser/a_laser.yy",},"order":0,},
     {"id":{"name":"s_explosion_particle","path":"sprites/s_explosion_particle/s_explosion_particle.yy",},"order":6,},
@@ -28,6 +30,7 @@
     {"id":{"name":"Create_Right_Laser","path":"scripts/Create_Right_Laser/Create_Right_Laser.yy",},"order":1,},
     {"id":{"name":"BounceOffScreenEdge","path":"scripts/BounceOffScreenEdge/BounceOffScreenEdge.yy",},"order":0,},
     {"id":{"name":"s_explosion_center","path":"sprites/s_explosion_center/s_explosion_center.yy",},"order":5,},
+    {"id":{"name":"o_button","path":"objects/o_button/o_button.yy",},"order":17,},
     {"id":{"name":"o_enemy_spawner","path":"objects/o_enemy_spawner/o_enemy_spawner.yy",},"order":16,},
     {"id":{"name":"s_stars_close","path":"sprites/s_stars_close/s_stars_close.yy",},"order":11,},
     {"id":{"name":"o_enemy_laser","path":"objects/o_enemy_laser/o_enemy_laser.yy",},"order":4,},
@@ -44,6 +47,7 @@
     {"id":{"name":"o_laser_powerup","path":"objects/o_laser_powerup/o_laser_powerup.yy",},"order":7,},
     {"id":{"name":"o_enemy_two","path":"objects/o_enemy_two/o_enemy_two.yy",},"order":2,},
     {"id":{"name":"o_score","path":"objects/o_score/o_score.yy",},"order":3,},
+    {"id":{"name":"generate_enemies","path":"scripts/generate_enemies/generate_enemies.yy",},"order":8,},
     {"id":{"name":"Space","path":"rooms/Space/Space.yy",},"order":0,},
   ],
   "Options": [
@@ -58,6 +62,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Space","path":"rooms/Space/Space.yy",},},
   ],
   "Folders": [
