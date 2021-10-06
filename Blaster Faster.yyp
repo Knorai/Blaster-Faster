@@ -3,6 +3,7 @@
     {"id":{"name":"start_button","path":"scripts/start_button/start_button.yy",},"order":9,},
     {"id":{"name":"Bounce_Off_Object","path":"scripts/Bounce_Off_Object/Bounce_Off_Object.yy",},"order":5,},
     {"id":{"name":"s_button_strip2","path":"sprites/s_button_strip2/s_button_strip2.yy",},"order":1,},
+    {"id":{"name":"o_screenshake","path":"objects/o_screenshake/o_screenshake.yy",},"order":19,},
     {"id":{"name":"Create_Laser_Effect","path":"scripts/Create_Laser_Effect/Create_Laser_Effect.yy",},"order":4,},
     {"id":{"name":"Create_Left_laser","path":"scripts/Create_Left_laser/Create_Left_laser.yy",},"order":2,},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":1,},
